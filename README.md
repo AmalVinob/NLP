@@ -46,9 +46,12 @@ The dataset used in this project contains reviews and listing descriptions from 
 
 ## Results
 
+The final output includes:
+- Identified Topics: Lists of keywords representing each topic and their interpretations.
+- Interactive Visualization: A web-based visualization that enables users to explore topics and keywords.
+- Insights: Analysis of the trends and patterns based on topics, which might reveal guest preferences, common complaints, and amenities of interest.
 
 ## Contributing
 ...
 
-## License
 
