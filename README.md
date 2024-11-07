@@ -45,7 +45,7 @@ The dataset used in this project contains reviews and listing descriptions from 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE file](./doc) for details.
+This project is licensed under the MIT License - see the [LICENSE file](LICENSE) for details.
 
 
 
