@@ -6,7 +6,6 @@ This project applies **topic modeling** on an Airbnb dataset using **Latent Diri
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
@@ -42,6 +41,12 @@ The dataset used in this project contains reviews and listing descriptions from 
 3. **Visualization**:
    - `matplotlib`
    - `pyLDAvis` (for interactive topic visualization)
+  
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE file](./doc) for details.
+
 
 
 ## Results
@@ -52,6 +57,8 @@ The final output includes:
 - Insights: Analysis of the trends and patterns based on topics, which might reveal guest preferences, common complaints, and amenities of interest.
 
 ## Contributing
-...
+
+Contributions are welcome! 
+
 
 
